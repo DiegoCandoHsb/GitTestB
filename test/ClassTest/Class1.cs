@@ -6,7 +6,7 @@
         {
             PrivateMethod();
             ProtectedMethod();
-            Console.WriteLine("Public method1");
+            Console.WriteLine("Public method1 br29");
             Class2 class2 = new Class2();   
             class2.PublicMethod();
         }
